@@ -1,0 +1,20 @@
+[
+    {
+        "ad": "Uğur Kaan",
+        "soyad": "Yeşil",
+        "yas": 25,
+        "departman": "Dönüşüm ofisi"
+    },
+    {
+        "ad": "personel",
+        "soyad": "2",
+        "yas": 25,
+        "departman": "Finans"
+    },
+    {
+        "ad": "personel",
+        "soyad": "3",
+        "yas": 35,
+        "departman": "Satış"
+    }
+]
